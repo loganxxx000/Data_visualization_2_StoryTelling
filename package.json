@@ -1,0 +1,22 @@
+{
+  "name": "scrolly-teller-app",
+  "version": "1.0.0",
+  "description": "Historia hotelera con ScrollyTeller",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@ihmeuw/scrollyteller": "^1.0.2",
+    "d3": "^7.9.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.76.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
