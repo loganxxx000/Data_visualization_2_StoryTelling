@@ -1,0 +1,16 @@
+# Dependencias de Node
+node_modules/
+npm-debug.log
+
+# Archivos de sistema Mac
+.DS_Store
+
+# Carpeta de producción/build
+#dist/
+
+# Archivos de entorno
+.env
+
+# Carpetas de IDEs
+.vscode/
+.idea/
