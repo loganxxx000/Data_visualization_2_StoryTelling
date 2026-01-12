@@ -6,7 +6,7 @@ npm-debug.log
 .DS_Store
 
 # Carpeta de producción/build
-dist/
+#dist/
 
 # Archivos de entorno
 .env
